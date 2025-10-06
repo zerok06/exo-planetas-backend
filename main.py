@@ -26,7 +26,7 @@ app = FastAPI(
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000", "http://localhost:5193"],  # Vite and React dev servers
+    allow_origins=["http://localhost:5173", "http://localhost:3000", "http://localhost:5193", "https://exo-planetas-frontend.onrender.com"],  # Vite and React dev servers
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
