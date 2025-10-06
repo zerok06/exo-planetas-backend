@@ -1,0 +1,5 @@
+koi_period_err1,koi_period_err2,koi_time0bk,koi_time0bk_err1,koi_time0bk_err2,koi_impact,koi_duration,koi_duration_err1,koi_duration_err2,koi_depth,koi_depth_err1,koi_model_snr,koi_steff_err1,koi_srad_err1,delivname_q1_q16_tce,delivname_q1_q17_dr24_tce,delivname_q1_q17_dr25_tce,koi_disposition
+0.1,0.2,1000,1.0,1.5,0.5,10.5,0.1,0.2,0.01,0.001,25.0,50.0,0.1,Q1-Q16-TCE,Q1-Q17-DR24-TCE,Q1-Q17-DR25-TCE,CONFIRMED
+0.2,0.3,1100,1.2,1.8,0.6,12.0,0.15,0.25,0.015,0.002,30.0,60.0,0.12,Q1-Q16-TCE,Q1-Q17-DR24-TCE,Q1-Q17-DR25-TCE,CANDIDATE
+0.15,0.25,1050,1.1,1.6,0.55,11.0,0.12,0.22,0.012,0.0015,27.5,55.0,0.11,Q1-Q16-TCE,Q1-Q17-DR24-TCE,Q1-Q17-DR25-TCE,CONFIRMED
+
